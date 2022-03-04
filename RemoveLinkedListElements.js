@@ -21,7 +21,7 @@
             if (!pre) {
                 head = head.next;
               } else {
-                
+                pre.next = node.next;
               }
           }
       }
