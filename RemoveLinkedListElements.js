@@ -26,5 +26,6 @@
           } else {
             pre = node;
           }
+          node = node.next;
       }
   };
