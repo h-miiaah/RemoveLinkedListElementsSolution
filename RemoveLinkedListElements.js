@@ -23,6 +23,8 @@
               } else {
                 pre.next = node.next;
               }
+          } else {
+            
           }
       }
   };
