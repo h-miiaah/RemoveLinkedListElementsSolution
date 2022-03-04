@@ -35,6 +35,7 @@
 
   /*
 
-
+  - Initialize a node variable to point to the head of the list.
+  
 
   */
