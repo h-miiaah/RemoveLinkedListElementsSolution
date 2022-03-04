@@ -20,6 +20,8 @@
         if (node.val === val) {
             if (!pre) {
                 head = head.next;
+              } else {
+                
               }
           }
       }
