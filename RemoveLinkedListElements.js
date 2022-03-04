@@ -11,5 +11,5 @@
  * @return {ListNode}
  */
  var removeElements = function(head, val) {
-    
+    if (!head) return head;
   };
