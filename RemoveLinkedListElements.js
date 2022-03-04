@@ -39,6 +39,7 @@
   - Initialize a pre variable to null.
   - Loop through the list until we reach the end.
   - If the current node’s value is equal to the value we’re looking for, we check if pre is null.
+  - If it is, we set head to the next node. 
   
 
   */
