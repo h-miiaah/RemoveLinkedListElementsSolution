@@ -36,6 +36,7 @@
   /*
 
   - Initialize a node variable to point to the head of the list.
+  - Initialize a pre variable to null.
   
 
   */
