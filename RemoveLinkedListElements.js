@@ -24,7 +24,7 @@
                 pre.next = node.next;
               }
           } else {
-            
+            pre = node;
           }
       }
   };
