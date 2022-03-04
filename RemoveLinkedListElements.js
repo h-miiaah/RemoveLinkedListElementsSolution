@@ -28,4 +28,6 @@
           }
           node = node.next;
       }
+
+      return head;
   };
