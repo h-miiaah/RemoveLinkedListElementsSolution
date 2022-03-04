@@ -15,4 +15,8 @@
 
     var node = head;
     var pre;
+
+    while (node) {
+        
+      }
   };
