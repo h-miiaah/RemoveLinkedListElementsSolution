@@ -43,6 +43,6 @@
   - Otherwise, we set pre’s next to the current node’s next.
   - If the current node’s value is not equal to the value we’re looking for, we set pre to the current node.
   - Set node to the current node’s next.
-  
+  - Once the loop is done, we return head.
 
   */
