@@ -18,7 +18,9 @@
 
     while (node) {
         if (node.val === val) {
-            
+            if (!pre) {
+               
+              }
           }
       }
   };
