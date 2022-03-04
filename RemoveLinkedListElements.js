@@ -14,4 +14,5 @@
     if (!head) return head;
 
     var node = head;
+    var pre;
   };
