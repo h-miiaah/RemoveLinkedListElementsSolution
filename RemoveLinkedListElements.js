@@ -41,6 +41,7 @@
   - If the current node’s value is equal to the value we’re looking for, we check if pre is null.
   - If it is, we set head to the next node. 
   - Otherwise, we set pre’s next to the current node’s next.
+  - If the current node’s value is not equal to the value we’re looking for, we set pre to the current node.
   
 
   */
