@@ -17,6 +17,8 @@
     var pre;
 
     while (node) {
-        
+        if (node.val === val) {
+            
+          }
       }
   };
