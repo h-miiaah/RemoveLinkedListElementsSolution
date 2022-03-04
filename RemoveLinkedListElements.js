@@ -12,4 +12,6 @@
  */
  var removeElements = function(head, val) {
     if (!head) return head;
+
+    var node = head;
   };
